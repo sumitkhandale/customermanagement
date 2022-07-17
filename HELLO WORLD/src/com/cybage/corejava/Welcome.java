@@ -3,7 +3,7 @@ package com.cybage.corejava;
 public class Welcome {
 	public static void main(String[] args) {
 		
-		String str = "SUMITKHANDALE";
+		String str = "DEEPIKA";
 		String rev = "";
 		int i;
 		for(i = str.length()-1;i>=0;i--) {
